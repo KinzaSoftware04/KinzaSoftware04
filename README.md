@@ -1,18 +1,20 @@
-# ⚡ Welcome to Kinza's Space 🪐
-
-## 🪐 about-me
-
-✨ **Assalamualikum!** I'm **Kinza Javed**, a passionate **Software Engineering Student** at **The Islamia University of Bahawalpur**. 
-
-I am deeply fascinated by logic building and backend architectures. Currently in my 3rd semester, I am strengthening my concepts in Object-Oriented Programming (OOP) and Data Structures while actively building practical applications. My ultimate goal is to excel in Backend Engineering, Data Science, and Artificial Intelligence.
-
-- 🎓 **Current Status:** 3rd Semester Software Engineering Student
-- ⚡ **Fun Fact:** I enjoy breaking down complex, real-world workflows into clean and structured code.
-- 🚀 **Future Goals:** Aspiring Backend Engineer & AI/Data Science Enthusiast
+# 🪐 ✨ Welcome to Kinza's Tech Space ✨ 🪐
 
 ---
 
-## 🛠️ tech-stack
+## 🦄 about-me
+
+✨ **Assalamualikum!** I'm **Kinza Javed**, a passionate **Software Engineering Student** at **The Islamia University of Bahawalpur** 🎓. 
+
+I am deeply fascinated by logic building, backend architectures, and intelligent systems. Currently in my **3rd semester**, I am strengthening my foundations in object-oriented programming and core data structures while turning real-world workflows into clean, structured code. 💻 🌸
+
+* 🔮 **Current Focus:** Data Structures (DSA) & Object-Oriented Programming (OOP)
+* ⚡ **Fun Fact:** I love breaking down complex logic into beautiful, logical steps!
+* 🚀 **Future Goals:** Aspiring Backend Engineer & AI/Data Science Enthusiast
+
+---
+
+## 🛠️ tech-stack & tools
 
 <p align="left">
   <!-- Languages -->
@@ -32,37 +34,26 @@ I am deeply fascinated by logic building and backend architectures. Currently in
 
 ## 💻 featured-projects
 
-Here are some of the functional backend and automation tools I've built using Python:
+Here are some of the functional backend systems and automation utilities I've engineered using Python:
 
 * 🏥 **Hospital Management System**
-  * A console-based database system utilizing **File Handling** to permanently store, retrieve, and manage patient records via dictionaries and structured text logging.
-* 🏪 **Supermarket Billing & POS System**
-  * A retail point-of-sale terminal simulator featuring dynamic pricing, dictionary-based cart structures, conditional discount algorithms, and daily sales tracking written directly into persistent storage.
+  * *A console-based database application utilizing system **File Handling** to permanently store, retrieve, and manage confidential patient records via dynamic dictionary mapping.*
+* 🏪 **Supermarket Billing & POS Terminal**
+  * *A retail point-of-sale simulator featuring multi-item cart configurations, automated conditional discount rules, and chronological sales logging stored directly into persistent storage.*
 * 🏧 **Automated Teller Machine (ATM) Simulator**
-  * A secure banking logic script featuring multi-layered nested verification loops, PIN authentication, secure state management for balance updates, and an automated card-blocking defense mechanism.
-
----
-
-## 📊 github-metrics
-
-<p align="center">
-  <img src="https://vercel.app" alt="Kinza's GitHub Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Kinza's Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Kinza's Top Languages" width="60%" />
-</p>
+  * *A secure banking script built with multi-layered nested verification loops, state management for user balances, and an automated card-blocking protection mechanism.*
 
 ---
 
 ## 🤝 connect-with-me
 
-<p align="left">
-  <a href="mailto:kinzajaved022@gmail.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
-  </a>
-</p>
+Let's exchange ideas, collaborate on open-source code, or just talk about software architecture! 🌸 ✨
+
+* 📬 **Email:** kinzajaved022@gmail.com
+* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://linkedin.com) 🚀
+
+---
+
+<div align="center">
+  <sub>Designed with 💖 & Logic by Kinza Javed. Powered by GitHub.</sub>
+</div>
