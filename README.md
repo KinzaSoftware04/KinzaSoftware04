@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
+# ⚡ Welcome to Kinza's Space 🪐
 
 ## 🪐 about-me
 
@@ -68,7 +66,3 @@ Here are some of the functional backend and automation tools I've built using Py
     <img src="https://shields.io" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://vercel.app" width="100%" />
-</div>
