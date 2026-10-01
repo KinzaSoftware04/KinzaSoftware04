@@ -16,19 +16,13 @@ I am deeply fascinated by logic building, backend architectures, and intelligent
 
 ## 🛠️ tech-stack & tools
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- Core Concepts -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  
-  <!-- Tools -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+Here are the core technologies and concepts I am currently working with:
+
+* 🐍 **Python Programming** — Writing script logic, automation, and structured algorithms.
+* 💻 **C++ Language** — Gaining core structural programming and memory concepts.
+* 🌸 **Object-Oriented Programming (OOP)** — Designing clean, modular, and reusable code models.
+* 🔮 **Data Structures (DSA)** — Working on logical optimization and data organization.
+* 🐙 **Git & GitHub** — Managing code versions, repository building, and deployment workflows.
 
 ---
 
