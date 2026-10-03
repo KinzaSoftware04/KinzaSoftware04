@@ -2,7 +2,7 @@
 
 ---
 
-## 🦄 about-me
+## 🦄 About-me
 
 ✨ **Assalamualikum!** I'm **Kinza Javed**, a passionate **Software Engineering Student** at **The Islamia University of Bahawalpur** 🎓. 
 
@@ -14,7 +14,7 @@ I am deeply fascinated by logic building, backend architectures, and intelligent
 
 ---
 
-## 🛠️ tech-stack & tools
+## 🛠️ Tech-stack & tools
 
 Here are the core technologies and concepts I am currently working with:
 
@@ -26,7 +26,7 @@ Here are the core technologies and concepts I am currently working with:
 
 ---
 
-## 💻 featured-projects
+## 💻 Featured-projects
 
 Here are some of the functional backend systems and automation utilities I've engineered using Python:
 
@@ -39,7 +39,7 @@ Here are some of the functional backend systems and automation utilities I've en
 
 ---
 
-## 🤝 connect-with-me
+## 🤝 Connect-with-me
 
 Let's exchange ideas, collaborate on open-source code, or just talk about software architecture! 🌸 ✨
 
